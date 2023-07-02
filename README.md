@@ -4,4 +4,4 @@ and also to compare between different ways of data encoding and how it can chang
 
 ## Block Diagram
 
-![Capture](https://user-images.githubusercontent.com/104662487/223001464-68b7f08a-2f41-48a7-9013-04f594c4fbac.JPG)
+![Capture](https://github.com/Mohamed-Nasser620/Modulation_Schemes_BER/assets/104467935/e4a9f211-8400-4ac1-9ef8-d40c7c2a892d)
